@@ -1,5 +1,5 @@
 //实现bubble_sort函数的程序员，他是否知道未来排序的数据类型 - 不知道
-//那程序员也不知道，待比较的两个元素的类型
+//那程序员也不知道，待比较的两个元素的类型 
 void Swap(char* buf1, char* buf2, int width) {
 	int i = 0;
 	for (i = 0; i < width; i++) {
