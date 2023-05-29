@@ -1,0 +1,10 @@
+﻿  contact .c
+D:\code\address book\address book\contact .c(81,42): warning C4028: 形参 1 与声明不同
+D:\code\address book\address book\contact .c(91,9): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const char *”
+D:\code\address book\address book\contact .c(93,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“const int *”
+D:\code\address book\address book\contact .c(95,9): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const char *”
+D:\code\address book\address book\contact .c(97,9): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const char *”
+D:\code\address book\address book\contact .c(99,9): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const char *”
+  test.c
+  正在生成代码...
+  address book.vcxproj -> D:\code\address book\x64\Debug\address book.exe
