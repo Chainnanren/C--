@@ -1,0 +1,5 @@
+﻿  contact.c
+  test.c
+D:\code\dy-address book\dy-address book\test.c(42,4): warning C4013: “DestroyContact”未定义；假设外部返回 int
+  正在生成代码...
+  dy-address book.vcxproj -> D:\code\dy-address book\x64\Debug\dy-address book.exe
